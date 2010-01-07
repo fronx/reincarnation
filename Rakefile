@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "reincarnation"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{reincarnation for classes and modules}
+    gem.description = %Q{reincarnation for classes and modules}
     gem.email = "francois.wurmus@infopark.de"
     gem.homepage = "http://github.com/fronx/reincarnation"
     gem.authors = ["François Wurmus"]
