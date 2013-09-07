@@ -1,6 +1,6 @@
 # reincarnation
 
-monkey patch existing class and modules with the added comfort of "super".
+monkey patch existing class and modules with the added comfort of "super". in other words: you shouldn't even consider using this.
 
 example for classes:
 
@@ -46,19 +46,4 @@ example for modules:
 
     BooTest.new.bar
 
-## installation
-    gem install reincarnation
-
-## note on patches/pull requests
- 
-* fork the project.
-* make your feature addition or bug fix.
-* add tests for it. this is important so i don't break it in a
-  future version unintentionally.
-* commit, do not mess with rakefile, version, or history.
-  (if you want to have your own version, that is fine but bump version in a commit by itself i can ignore when i pull)
-* send me a pull request. bonus points for topic branches.
-
-## copyright
-
-copyright (c) 2010 françois wurmus. see license for details.
+MIT license
